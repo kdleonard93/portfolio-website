@@ -3319,3 +3319,10 @@ input, select, textarea {
 			}
 
 	}
+
+	/* Email Icon */
+
+	#email-icon {
+		position: relative;
+		top: 29%;
+	}
