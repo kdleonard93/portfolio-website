@@ -2733,7 +2733,7 @@ input, select, textarea {
 		}
 
 			#header a:hover {
-				color: #ffffff !important;
+				color: #000000 !important;
 			}
 
 		#header > header {
@@ -2777,7 +2777,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #b7eadc;
+					color: #ffffff ;
 				}
 
 		#header > nav {
